@@ -10,7 +10,8 @@
 
 - [Laboratórios de informática II](https://github.com/chelesgaroth/Jogo-Reversi-LI2)
 - [Programação Imperativa](https://github.com/chelesgaroth/Programacao-Imperativa)
-- 
+
+
 ## 2º Ano
 ### 2º Semestre
 - [Cálculo de Programas](https://github.com/chelesgaroth/Projeto-CP)
@@ -18,6 +19,7 @@
 - [Laboratórios de informática III - Java](https://github.com/chelesgaroth/SGV-JAVA-LI3)
 - [Programação Orientada aos Objetos](https://github.com/chelesgaroth/POO-Project)
 - [Sistemas Operativos](https://github.com/chelesgaroth/Sistemas-Operativos)
+
 
 ## 3º Ano
 ### 1º Semestre
