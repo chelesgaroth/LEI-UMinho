@@ -28,7 +28,7 @@
 - [Métodos Numéricos de Otimização Linear](https://github.com/chelesgaroth/MNOL)
 - [Modelos Determinísticos de Investigação Operacional](https://github.com/chelesgaroth/MDIO)
 - [Sistemas DIstribuídos](https://github.com/chelesgaroth/Sistemas-Distribuidos)
-- 
+
 ### 2º Semestre
 - [Computação Gráfica](https://github.com/chelesgaroth/Projeto-CG) 
 - [Comunicação por Computadores](https://github.com/chelesgaroth/CC-Trabalhos)
