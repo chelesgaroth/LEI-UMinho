@@ -3,7 +3,7 @@
 ## 1º Ano
 ### 1º Semestre
 
-- [Laboratórios de Informática I](https://github.com/chelesgaroth/Jogo-Tanks-LI1) - nothing yet
+- [Laboratórios de Informática I](https://github.com/chelesgaroth/Jogo-Tanks-LI1) - empty
 - [Programação Funcional](https://github.com/chelesgaroth/Programacao-Funcional)
 
 ### 2º Semestre
